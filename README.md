@@ -1,4 +1,4 @@
-# WebAPI Call and JSON Parsing using [Reqwest](https://crates.io/crates/reqwest) and [Serde_JSON](https://crates.io/crates/serde_json)
+# WebAPI Call and JSON Parsing in [Rust](https://github.com/rust-lang) using [Reqwest](https://crates.io/crates/reqwest) and [Serde_JSON](https://crates.io/crates/serde_json)
 
     git clone https://github.com/marianopw/WebAPI-call-and-JSON-parsing
     cd WebAPI-call-and-JSON-parsing
